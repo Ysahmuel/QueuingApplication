@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.CashierWindowQueue.resources
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.QueuingForm.resources
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.csproj.GenerateResource.cache
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\bin\Debug\net8.0-windows\QueueingApplication.exe
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\bin\Debug\net8.0-windows\QueueingApplication.deps.json
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\bin\Debug\net8.0-windows\QueueingApplication.runtimeconfig.json
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\bin\Debug\net8.0-windows\QueueingApplication.dll
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\bin\Debug\net8.0-windows\QueueingApplication.pdb
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.dll
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\refint\QueueingApplication.dll
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.pdb
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\QueueingApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\QueueingApplication\QueueingApplication\obj\Debug\net8.0-windows\ref\QueueingApplication.dll
